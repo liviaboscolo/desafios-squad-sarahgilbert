@@ -16,3 +16,13 @@
 #### Responsável pelas questões número 6 dos desafios 1, 2, 3 e 4 
 ### - Rosana 
 #### Responsável pelas questões número 7 e 10 dos desafios 1 e 2 
+
+## Orientações para os desafios:
+### - Clonar o repositório remoto em uma cópia local
+### - Criar o arquivo dos desafios de sua responsabilidade, seguindo as boas práticas:
+#### * nome do arquivo deve ter o primeiro caractere minúsculo
+#### * não utilizar caracteres especiais
+#### * adicionar a extensão ".py" ao nome do arquivo
+### - Commitar as alterações 
+
+
