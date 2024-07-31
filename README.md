@@ -14,7 +14,7 @@
 #### Responsável pelas questões número 5 dos desafios 1, 2, 3 e 4 
 ### - Raquel de Oliveira Maia
 #### Responsável pelas questões número 6 dos desafios 1, 2, 3 e 4 
-### - Rosana 
+### - Rosana TSF
 #### Responsável pelas questões número 7 e 10 dos desafios 1 e 2 
 
 ## Orientações para os desafios:
