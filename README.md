@@ -23,6 +23,7 @@
 #### * nome do arquivo deve ter o primeiro caractere minúsculo
 #### * não utilizar caracteres especiais
 #### * adicionar a extensão ".py" ao nome do arquivo
-### - Commitar as alterações. 
+### - Commitar as alterações
+### - Dar um push para a branch "ExerciciosPython-SquadSarahGilbert" do repo remoto
 
 
