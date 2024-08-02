@@ -26,4 +26,3 @@
 ### - Commitar as alterações
 ### - Dar um push para a branch "ExerciciosPython-SquadSarahGilbert" do repo remoto.
 
-
