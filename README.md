@@ -4,7 +4,7 @@
 | ------------- | ------------- |
 | Letícia Almeida  | número 1 dos desafios 1, 2, 3 e 4  |
 | Lívia Boscolo | número 2 dos desafios 1, 2, 3 e 4 |
-| Michelle Martins da Costa | Responsável pelas questões número 3 dos desafios 1, 2, 3 e 4 | 
+| Michelle Martins da Costa | número 3 dos desafios 1, 2, 3 e 4 | 
 | Nadi Duno | número 4 dos desafios 1, 2, 3 e 4 |
 | Nicola Gonzaga | número 5 dos desafios 1, 2, 3 e 4 |
 | Raquel de Oliveira Maia | número 6 dos desafios 1, 2, 3 e 4 |
