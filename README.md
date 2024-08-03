@@ -21,6 +21,7 @@ Para facilitar a identificação das tarefas, utilizamos uma codificação simpl
 A seguir, apresentamos uma tabela com os responsáveis e suas respectivas tarefas:
 <br/>
 <br/>
+
 | Integrantes da Equipe  | Tarefas| Status |
 | ------------- | ------------- | ------------- |
 | Letícia Almeida  | D1-Q1, D2-Q1, D3-Q1, D4-Q1 | ✅
