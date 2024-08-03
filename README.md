@@ -3,20 +3,16 @@
 > Para inspirar, formar e impulsionar
 
 ## 👩‍💻**Squad Sarah Gilbert**👩‍💻 | Desafio
-O desafio foi dividido em quatro eixos principais: Python básico, tomada de decisões, listas e funções, totalizando 32 questões.
 <br/>
-Cada participante assumiu 4 questões, uma por eixo, garantindo uma participação equitativa e aprofundamento em todos os temas.
-<br/>
-Com o auxílio do Trello, Git e GitHub, e do canal do Discord do squad, conseguimos trabalhar de forma colaborativa, otimizando o processo de desenvolvimento e aprendizado.
-<br/>
-Para facilitar a identificação das tarefas, utilizamos uma codificação simples:
-<br/>
-**D[número do desafio]-Q[número da questão]**. Por exemplo, **D1-Q1** representa a primeira questão do primeiro desafio.
-<br/>
-A seguir, apresentamos uma tabela com os responsáveis e suas respectivas tarefas:
+> O desafio foi dividido em quatro eixos principais: Python básico, tomada de decisões, listas e funções, totalizando 32 questões.
+> Cada participante assumiu 4 questões, uma por eixo, garantindo uma participação equitativa e aprofundamento em todos os temas.
+> Com o auxílio do Trello, Git e GitHub, e do canal do Discord do squad, conseguimos trabalhar de forma colaborativa, otimizando o processo de desenvolvimento e aprendizado.
+> Para facilitar a identificação das tarefas, utilizamos uma codificação simples:
+> **D[número do desafio]-Q[número da questão]**. Por exemplo, **D1-Q1** representa a primeira questão do primeiro desafio.
+> A seguir, apresentamos uma tabela com os responsáveis e suas respectivas tarefas:
 
 | Integrantes da Equipe  | Tarefas| Status |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Letícia Almeida  | D1-Q1, D2-Q1, D3-Q1, D4-Q1 | ✅
 | Lívia Boscolo | D1-Q2, D2-Q2, D3-Q2, D4-Q2| 📝
 | Michelle Martins da Costa | D1-Q3, D2-Q3, D3-Q3, D4-Q3 | 📝
