@@ -3,24 +3,35 @@
 > Para inspirar, formar e impulsionar
 
 ## 👩‍💻**Squad Sarah Gilbert**👩‍💻 | Desafio
+O desafio foi dividido em quatro eixos principais: Python básico, tomada de decisões, listas e funções, totalizando 32 questões.
+<br/>
+Cada participante assumiu 4 questões, uma por eixo, garantindo uma participação equitativa e aprofundamento em todos os temas.
+<br/>
+Com o auxílio do Trello, Git e GitHub, e do canal do Discord do squad, conseguimos trabalhar de forma colaborativa, otimizando o processo de desenvolvimento e aprendizado.
+<br/>
+Para facilitar a identificação das tarefas, utilizamos uma codificação simples:
+<br/>
+**D[número do desafio]-Q[número da questão]**. Por exemplo, **D1-Q1** representa a primeira questão do primeiro desafio.
+<br/>
+A seguir, apresentamos uma tabela com os responsáveis e suas respectivas tarefas:
 
-
-| Integrantes da Equipe  | Questões | Desafios | Status |
+| Integrantes da Equipe  | Tarefas| Status |
 | ------------- | ------------- | ------------- | ------------- |
-| Letícia Almeida  | 1 | 1, 2, 3 e 4 | ✅
-| Lívia Boscolo | 2 | 1, 2, 3 e 4| 📝
-| Michelle Martins da Costa | 3  | 1, 2, 3 e 4 | 📝
-| Nadi Duno | 4  | 1, 2, 3 e 4 | ✅
-| Nicola Gonzaga | 5 | 1, 2, 3 e 4 | 📝
-| Raquel de Oliveira Maia | 6  | 1, 2, 3 e 4 | ✅
-| Rosana TSF | 7 e 10  | 1 e 2 | ✅
-| Jessica Caroline Lizar  | 8 e 9  | 1 e 2 | ✅
+| Letícia Almeida  | D1-Q1, D2-Q1, D3-Q1, D4-Q1 | ✅
+| Lívia Boscolo | D1-Q2, D2-Q2, D3-Q2, D4-Q2| 📝
+| Michelle Martins da Costa | D1-Q3, D2-Q3, D3-Q3, D4-Q3 | 📝
+| Nadi Duno | D1-Q4, D2-Q4, D3-Q4, D4-Q4 | ✅
+| Nicola Gonzaga | D1-Q5, D2-Q5, D3-Q5, D4-Q5 | 📝
+| Raquel de Oliveira Maia | D1-Q6, D2-Q6, D3-Q6, D4-Q6 | ✅
+| Rosana TSF | D1-Q7, D1-Q10, D2-Q7, D2-Q10 | ✅
+| Jessica Caroline Lizar  | D1-Q8, D1-Q9, D2-Q8, D2-Q9 | ✅
 
-
+<br/>
+<br/>
 ## Orientações para os desafios:
 
 1. Clonar o repositório remoto em uma cópia local
-~~~git
+~~~bash
 git clone https://github.com/liviaboscolo/desafios-squad-sarahgilbert.git
 ~~~
 <br/> 
@@ -30,13 +41,13 @@ git clone https://github.com/liviaboscolo/desafios-squad-sarahgilbert.git
     * Evitar caracteres especiais
     * Adicionar a extensão ".py" ao nome do arquivo
     * Exemplo: **questao1.py**
-~~~git
+~~~bash
 touch questao1.py
 ~~~
 <br/>
 
 3. Usar a branch **"ExerciciosPython-SquadSarahGilbert"**
-~~~git
+~~~bash
 git checkout ExerciciosPython-SquadSarahGilbert
 ~~~
 <br/>
@@ -48,21 +59,18 @@ print('Meu Código...')
 <br/>
 
 5. Adicinar as alterações
-~~~git
+~~~bash
 git add .
 ~~~
 <br/>
 
 6. Commitar as alterações
-~~~git
+~~~bash
 git commit -m 'Questão 1 do Desafio 1'
 ~~~
 <br/>
 
 7. Subir as alterações ao repositório remoto n branch do Squad
-~~~git
+~~~bash
 git push origin ExerciciosPython-SquadSarahGilbert
 ~~~
-
-
-##
