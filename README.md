@@ -17,41 +17,49 @@
 ## Orientações para os desafios:
 
 1. Clonar o repositório remoto em uma cópia local
-ˋˋˋgit
+~~~git
 git clone https://github.com/liviaboscolo/desafios-squad-sarahgilbert.git
- ˋˋˋ
- 
+~~~
+<br/> 
+
 2. Criar o arquivo dos desafios de sua responsabilidade, seguindo boas práticas:
     * O nome do arquivo deve ter o primeiro caractere minúsculo
     * Evitar caracteres especiais
     * Adicionar a extensão ".py" ao nome do arquivo
     * Exemplo: **questao1.py**
-ˋˋˋgit
+~~~git
 touch questao1.py
- ˋˋˋ
+~~~
+<br/>
 
 3. Usar a branch **"ExerciciosPython-SquadSarahGilbert"**
-ˋˋˋgit
+~~~git
 git checkout ExerciciosPython-SquadSarahGilbert
- ˋˋˋ
+~~~
+<br/>
+
 4. Escrever seu código
-ˋˋˋpython
+~~~python
 print('Meu Código...')
- ˋˋˋ
+~~~
+<br/>
+
 5. Adicinar as alterações
-ˋˋˋgit
+~~~git
 git add .
- ˋˋˋ
+~~~
+<br/>
 
 6. Commitar as alterações
-ˋˋˋgit
+~~~git
 git commit -m 'Questão 1 do Desafio 1'
- ˋˋˋ
+~~~
+<br/>
 
-8. Subir as alterações ao repositório remoto
-ˋˋˋgit
+7. Subir as alterações ao repositório remoto n branch do Squad
+~~~git
 git push origin ExerciciosPython-SquadSarahGilbert
- ˋˋˋ
+~~~
 
 
 ##
