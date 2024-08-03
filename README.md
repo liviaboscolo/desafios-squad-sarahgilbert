@@ -16,7 +16,7 @@ Com o auxílio do Trello, Git e GitHub, e do canal do Discord do squad, consegui
 Para facilitar a identificação das tarefas, utilizamos uma codificação simples:
 <br/>
 <br/>
-**D[número do desafio]-Q[número da questão]**. Por exemplo, **D1-Q1** representa a primeira questão do primeiro desafio.
+D[número do desafio]-Q[número da questão]. Por exemplo, D1-Q1 representa a primeira questão do primeiro desafio.
 <br/><br/>
 A seguir, apresentamos uma tabela com os responsáveis e suas respectivas tarefas:
 <br/>
