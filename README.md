@@ -1,5 +1,5 @@
-# Desafios Bootcamp Back-End Python e Django [WoMakersCode](https://www.maismulheres.tech/)
-## Squad Sarah Gilbert
+# Bootcamp Back-End Python e Django da [WoMakersCode](https://www.maismulheres.tech/)
+## 👩‍💻**Squad Sarah Gilbert**👩‍💻 | Desafios 
 
 
 | Integrantes da Equipe  | Questões | Desafios | Status |
