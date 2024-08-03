@@ -6,16 +6,21 @@
 <br/>
 O desafio foi dividido em quatro eixos principais: Python básico, tomada de decisões, listas e funções, totalizando 32 questões.
 <br/>
+<br/>
 Cada participante assumiu 4 questões, uma por eixo, garantindo uma participação equitativa e aprofundamento em todos os temas.
+<br/>
 <br/>
 Com o auxílio do Trello, Git e GitHub, e do canal do Discord do squad, conseguimos trabalhar de forma colaborativa, otimizando o processo de desenvolvimento e aprendizado.
 <br/>
+<br/>
 Para facilitar a identificação das tarefas, utilizamos uma codificação simples:
 <br/>
-**D[número do desafio]-Q[número da questão]**. Por exemplo, **D1-Q1** representa a primeira questão do primeiro desafio.
 <br/>
+**D[número do desafio]-Q[número da questão]**. Por exemplo, **D1-Q1** representa a primeira questão do primeiro desafio.
+<br/><br/>
 A seguir, apresentamos uma tabela com os responsáveis e suas respectivas tarefas:
-
+<br/>
+<br/>
 | Integrantes da Equipe  | Tarefas| Status |
 | ------------- | ------------- | ------------- |
 | Letícia Almeida  | D1-Q1, D2-Q1, D3-Q1, D4-Q1 | ✅
