@@ -8,7 +8,8 @@ def time_travel():
 
     tempo_aviao = distancia / velocidade_aviao
     tempo_carro = distancia / velocidade_carro
-    tempo_onibus = distancia / velocidade_onibus
+    tempo_onibus = distancia / velocidade_onibus #variveis de caculos
+    
 
     print(f"O tempo do percurso de avião é de {tempo_aviao:.2f} horas.")
     print(f"O tempo do percurso de carro é de {tempo_carro:.2f} horas.")
