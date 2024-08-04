@@ -21,3 +21,4 @@ if __name__ == "__main__":
   calorias = (horas_exercicio_semana * 5 * 60) * 4 # mês -> 4 semanas, 1 hora = 60 minutos
   calorias = str(round(calorias,2)).replace('.',',')
   print(f'Total de calorias queimadas em um mês: {calorias} cal')
+  

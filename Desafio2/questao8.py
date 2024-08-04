@@ -27,3 +27,4 @@ if __name__ == "__main__":
     print(f'\nO maior número é: {n2} -> {n1,n2,n3}')
   else:
     print(f'\nO maior número é: {n3} -> {n1,n2,n3}')
+    

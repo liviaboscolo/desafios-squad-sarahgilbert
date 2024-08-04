@@ -48,3 +48,4 @@ if __name__ == "__main__":
 
   print(f"\nTotal número pares: {len(pares)} -> {pares}")
   print(f"Total número ímpares: {len(impares)} -> {impares}")
+  
