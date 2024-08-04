@@ -1,3 +1,8 @@
+"""
+Letícia - questao 1, desafio 1
+Faça um Programa que peça dois números, realize as principais
+operações soma, subtração, multiplicação, divisão
+"""
 def soma(num1, num2):
     print(f"Soma: {num1 + num2}")
 
