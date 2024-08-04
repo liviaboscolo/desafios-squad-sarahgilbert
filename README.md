@@ -54,9 +54,9 @@ touch questao1.py
 ~~~
 <br/>
 
-3. Usar a branch **"ExerciciosPython-SquadSarahGilbert"**
+3. Criar e mudar para uma nova branch de alteração para PRs **"seuNome-suaMudanca"** (sugestão de nome de branch)
 ~~~bash
-git checkout ExerciciosPython-SquadSarahGilbert
+git checkout -b seuNome-suaMudanca
 ~~~
 <br/>
 
@@ -80,5 +80,5 @@ git commit -m 'Questão 1 do Desafio 1'
 
 7. Subir as alterações ao repositório remoto (na branch do Squad)
 ~~~bash
-git push origin ExerciciosPython-SquadSarahGilbert
+git push origin seuNome-suaMudanca
 ~~~
