@@ -1,3 +1,8 @@
+"""
+Letícia - questao 1, desafio 2
+Faça um Programa que peça dois números e imprima o maior deles.
+"""
+
 numeros = []
 
 print("Digite dois números de sua escolha abaixo:")
