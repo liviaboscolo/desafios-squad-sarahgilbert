@@ -1,8 +1,7 @@
 def time_travel():
     
     distancia = float(input('Digite a distância da viagem em KM: '))
-
-
+    #removendo espaços
     velocidade_aviao = 600
     velocidade_carro = 100
     velocidade_onibus = 80
