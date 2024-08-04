@@ -35,6 +35,7 @@ A seguir, apresentamos uma tabela com os responsáveis e suas respectivas tarefa
 
 <br/>
 <br/>
+
 ## Orientações para sua contribuição:
 
 1. Clonar o repositório remoto em uma cópia local
