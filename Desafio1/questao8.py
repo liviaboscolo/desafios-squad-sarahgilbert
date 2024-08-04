@@ -22,3 +22,4 @@ if __name__ == "__main__":
   salario = valor_hora * horas_mes
   salario = str(round(salario,2)).replace('.',',')
   print(f'Seu salário é de R${salario}')
+  
