@@ -35,7 +35,7 @@ A seguir, apresentamos uma tabela com os responsáveis e suas respectivas tarefa
 
 <br/>
 <br/>
-## Orientações sua contribuição:
+## Orientações para sua contribuição:
 
 1. Clonar o repositório remoto em uma cópia local
 ~~~bash
@@ -77,7 +77,7 @@ git commit -m 'Questão 1 do Desafio 1'
 ~~~
 <br/>
 
-7. Subir as alterações ao repositório remoto n branch do Squad
+7. Subir as alterações ao repositório remoto (na branch do Squad)
 ~~~bash
 git push origin ExerciciosPython-SquadSarahGilbert
 ~~~
