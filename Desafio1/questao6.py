@@ -15,4 +15,4 @@ def time_travel():
     print(f"O tempo do percurso de carro é de {tempo_carro:.2f} horas.")
     print(f"O tempo do percurso de ônibus é de {tempo_onibus:.2f} horas.")
 
-time_travel()
+time_travel() #chamando a função
