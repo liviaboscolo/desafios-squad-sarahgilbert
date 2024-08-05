@@ -1,3 +1,9 @@
+"""
+Rosana - questao 7, desafio 1
+ Solicite ao usuário o peso em kg e a altura em metros. Calcule e
+imprima o Índice de Massa Corporal (IMC) usando a fórmula:
+IMC = peso / (altura x altura).
+"""
 def calcular_imc(peso, altura):
     """
     Calcula o Índice de Massa Corporal (IMC).

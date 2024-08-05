@@ -1,3 +1,8 @@
+"""
+Rosana - questao 10, desafio 2
+Faça um programa que lê três números inteiros e os mostra em ordem
+crescente.
+"""
 # Ler três números inteiros do usuário
 num1 = int(input("Digite o primeiro número: "))
 num2 = int(input("Digite o segundo número: "))

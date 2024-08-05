@@ -1,3 +1,4 @@
+# Nicola - questão 5 desafio 2
 # 5. Desenvolva um programa que solicite ao usuário os comprimentos dos três
 # lados de um triângulo e classifique-o como equilátero, isósceles ou escaleno.
 # equilátero: todos os lados com o mesmo valor

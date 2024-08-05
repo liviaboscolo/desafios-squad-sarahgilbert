@@ -1,3 +1,8 @@
+"""
+Nadi - questao 4, desafio 3
+Crie um dicionário representando contatos (nome, telefone).
+Permita ao usuário procurar por um contato pelo nome.
+"""
 contatos = {
     "Leticia": "11 1234586789",
     "Livia": "22 1234586789",

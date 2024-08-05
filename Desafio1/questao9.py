@@ -1,5 +1,5 @@
 '''
-Jéssica Caroline Lizar
+Jéssica Caroline Lizar - questao 9, desafio 1
 
 9. Solicite ao usuário o número de horas de exercício físico por semana.
 Calcule o total de calorias queimadas em um mês, considerando uma

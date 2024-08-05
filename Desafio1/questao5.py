@@ -1,3 +1,4 @@
+# Nicola - questão 5 desafio 1
 # Escreva um programa que calcule o salário líquido. Lembrando de
 # declarar o salário bruto e o percentual de desconto do Imposto de
 # Renda.
